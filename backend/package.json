@@ -1,0 +1,9 @@
+{
+  "name": "booking-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Arpit Gupta",
+  "license": "ISC"
+}
